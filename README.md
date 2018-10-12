@@ -1,5 +1,5 @@
 # Some commands, tips, tricks and other usefull stuff.
-- [Anaconda]()
-- [Docker](Docker.md)
-- [Python]()
-- [Ruby]()
+- [Anaconda](Anaconda.md)
+- [Docker](Docker/Docker.md)
+- [Python](Python.md)
+- [Ruby](Ruby.md)
